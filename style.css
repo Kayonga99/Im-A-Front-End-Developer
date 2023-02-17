@@ -1,0 +1,47 @@
+.menu {
+    background-color:;
+    
+}
+
+.name {
+    word-wrap: normal;
+    width: 100px;
+    height: 220px;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 50px;
+    left: 16px;
+    top: 100px;
+    height: 100px;
+    width: 220px;
+    color: #c4c4c4;
+
+}
+
+.one {
+    background-color:#c4c4c4;
+    width: 15px;
+    height: 7px;
+    top: 19px;
+    left: 284px;
+    color: #c4c4c4;
+
+}
+.two {
+    background-color:#c4c4c4;
+    width: 15px;
+    height: 7px;
+    top: 25px;
+    left: 284;
+    color: #c4c4c4;
+
+}
+.three {
+    background-color:#c4c4c4;
+    border-width: 2px;
+    width: 15px;
+    height: 7px;
+    top: 31px;
+    left: 284;
+    color: #c4c4c4;
+}
